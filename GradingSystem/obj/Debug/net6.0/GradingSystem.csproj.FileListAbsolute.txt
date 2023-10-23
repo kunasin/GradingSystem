@@ -1,0 +1,14 @@
+D:\vs22\GradingSystem\bin\Debug\net6.0\GradingSystem.exe
+D:\vs22\GradingSystem\bin\Debug\net6.0\GradingSystem.deps.json
+D:\vs22\GradingSystem\bin\Debug\net6.0\GradingSystem.runtimeconfig.json
+D:\vs22\GradingSystem\bin\Debug\net6.0\GradingSystem.dll
+D:\vs22\GradingSystem\bin\Debug\net6.0\GradingSystem.pdb
+D:\vs22\GradingSystem\obj\Debug\net6.0\GradingSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs22\GradingSystem\obj\Debug\net6.0\GradingSystem.AssemblyInfoInputs.cache
+D:\vs22\GradingSystem\obj\Debug\net6.0\GradingSystem.AssemblyInfo.cs
+D:\vs22\GradingSystem\obj\Debug\net6.0\GradingSystem.csproj.CoreCompileInputs.cache
+D:\vs22\GradingSystem\obj\Debug\net6.0\GradingSystem.dll
+D:\vs22\GradingSystem\obj\Debug\net6.0\refint\GradingSystem.dll
+D:\vs22\GradingSystem\obj\Debug\net6.0\GradingSystem.pdb
+D:\vs22\GradingSystem\obj\Debug\net6.0\GradingSystem.genruntimeconfig.cache
+D:\vs22\GradingSystem\obj\Debug\net6.0\ref\GradingSystem.dll
